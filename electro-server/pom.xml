@@ -21,8 +21,8 @@
         <lombok-mapstruct-binding.version>0.2.0</lombok-mapstruct-binding.version>
         <rsql-jpa-spring-boot-starter.version>5.0.19</rsql-jpa-spring-boot-starter.version>
         <maven-surefire-plugin.version>3.0.0-M6</maven-surefire-plugin.version>
-        <springdoc-openapi-ui.version>1.6.8</springdoc-openapi-ui.version>
-        <io.jsonwebtoken.version>0.9.1</io.jsonwebtoken.version>
+        <springdoc-openapi-ui.version>1.8.0</springdoc-openapi-ui.version>
+        <io.jsonwebtoken.version>0.12.0</io.jsonwebtoken.version>
         <sockjs-client.version>1.0.2</sockjs-client.version>
         <stomp-websocket.version>2.3.3</stomp-websocket.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
