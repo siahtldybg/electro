@@ -12,7 +12,7 @@
     "@mantine/modals": "^4.2.12",
     "@mantine/notifications": "^4.2.12",
     "@mantine/prism": "^4.2.12",
-    "@mantine/rte": "^4.2.12",
+    "@mantine/rte": "^5.3.2",
     "@mantine/spotlight": "^4.2.12",
     "@smastrom/react-rating": "^1.2.2",
     "@testing-library/jest-dom": "^5.16.4",
